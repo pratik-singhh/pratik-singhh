@@ -1,36 +1,18 @@
-
-# Hi there, I'm [Pratik] 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
-### ⚡ About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Tech, e.g., Rust or LLMs]**
-- 💬 Ask me about **[Topic you love]**
-- 📫 How to reach me: **[Email/LinkedIn]**
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,docker,aws,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-### 🐍 Contribution Snake
-![snake gif](https://github-yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
+<h1>Hey 👋, I'm Pratik</h1>
+<p>An aspiring developer doing undergrad. Nice to meet you. </p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.instagram.com/pratiksingh__.__" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-singhh&show_icons=true&locale=en" alt="pratik-singhh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-singhh&" alt="pratik-singhh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-singhh&show_icons=true&locale=en&layout=compact" alt="pratik-singhh" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-singhh" alt="pratik-singhh" /></a></p>
