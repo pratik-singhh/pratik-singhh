@@ -63,14 +63,21 @@
 
 ---
 
-<h2>🌐 Personal</h2>
+## 🌿 Personal
 
 <p align="center">
-  <a href="https://music.apple.com/profile/pratik_thakur?ls">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001766.350ed507e99f432aa1f955c323bf6d9d.1541" alt="Apple Music GitHub profile" />
+  <img src="https://img.shields.io/badge/OS-Fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/pratiksingh__.__/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-
+  <a href="https://letterboxd.com/Pratik4351">
+    <img src="https://img.shields.io/badge/Letterboxd-%232C3440?style=for-the-badge&logo=letterboxd&logoColor=00E730" />
+  </a>
+</p>
 
 ---
 
