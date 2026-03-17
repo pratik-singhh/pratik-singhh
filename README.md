@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pratik-singhh&theme=tokyonight&hide_border=true" />
 </p>
-![snake gif](https://github.com/pratik-singhh/pratik-singhh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
