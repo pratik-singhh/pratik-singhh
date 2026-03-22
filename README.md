@@ -1,71 +1,79 @@
 <h1 align="center">Hey 👋, I'm Pratik</h1>
 <p align="center">
-  Fullstack Developer • React • TypeScript • Node.js
-</p>
-
-<p align="center">
-  I build real-world fullstack applications with clean architecture, secure APIs, and production deployments.
+  <b>Fullstack Developer</b> | React • TypeScript • Node.js<br/>
+  Building scalable web applications with clean code & solid architecture
 </p>
 
 ---
 
-<h2>🚀 Tech Stack</h2>
+## 💫 About Me
+
+Full-stack developer passionate about building production-ready applications with modern tech. I focus on clean architecture, secure backends, and responsive frontends. Always learning, always building.
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,html,css,tailwind,git,linux,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,html,css,tailwind,git,linux,vite,vercel,railway" />
 </p>
 
 ---
 
-<h2>🧠 What I Do</h2>
+## 🧠 What I Do
 
-<ul>
-  <li>⚛️ Build scalable React applications</li>
-  <li>🔧 Design and develop REST APIs with Node.js & Express</li>
-  <li>🔐 Implement authentication & authorization (JWT)</li>
-  <li>🗄️ Work with relational databases (PostgreSQL)</li>
-  <li>🔁 Handle async data, caching, and state updates</li>
-  <li>🌍 Deploy fullstack apps (Vercel, Railway, Neon)</li>
-</ul>
+- ⚛️ **Frontend:** Build responsive React apps with TypeScript & Tailwind
+- 🔧 **Backend:** Design scalable REST APIs with Node.js & Express  
+- 🔐 **Security:** Implement JWT authentication & authorization patterns
+- 🗄️ **Database:** Model & optimize PostgreSQL databases with proper relations
+- 🚀 **DevOps:** Deploy full-stack applications on Vercel, Railway & Neon
+- 🔁 **Performance:** Handle caching, async operations & state management
 
 ---
 
-<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
 
-<ul>
-  <li>
-    <b>🧠 TaskMaster (Fullstack Task Manager)</b><br/>
-    Fullstack app with authentication, projects & tasks management, and secure user-based access.<br/>
-    <i>Tech:</i> React, Node.js, Express, PostgreSQL, JWT, Tailwind<br/>
-    <i>Features:</i> CRUD operations, protected routes, relational DB design, deployed backend & frontend<br/>
-    <i>Live:</i> https://taskmaster-rho-two.vercel.app/
-  </li>
-  <br/>
+### 🧠 TaskMaster – Fullstack Task Manager
+**Live:** [taskmaster-rho-two.vercel.app](https://taskmaster-rho-two.vercel.app/) | **[View Repo](https://github.com/pratik-singhh/taskmaster)**
 
-  <li>
-    <b>🔍 GitHub Profile Viewer</b><br/>
-    Search users, view profiles & repositories, pagination, parallel API calls
-  </li>
-  <br/>
+Full-featured task management app with secure authentication and multi-user support. Demonstrates proper REST API design, protected routes, and relational database architecture.
 
-  <li>
-    <b>🔧 GitHub Repo Explorer</b><br/>
-    Debounced search, sorting, pagination, request cancellation (AbortController)
-  </li>
-  <br/>
-
-  <li>
-    <b>🎬 Movie App</b><br/>
-    API-based movie browsing with loading & error handling
-  </li>
-</ul>
+**Tech:** React, Node.js, Express, PostgreSQL, JWT, Tailwind CSS  
+**Highlights:** CRUD operations, user isolation, JWT auth, deployed frontend & backend
 
 ---
 
-<h2>📊 Stats</h2>
+### 🔍 GitHub Profile Viewer
+**[View Repo](https://github.com/pratik-singhh/github-profile-viewer)**
+
+Search GitHub users, view detailed profiles, and explore repositories with pagination. Demonstrates API integration and handling of large datasets efficiently.
+
+**Tech:** React, GitHub API, Pagination
+
+---
+
+### 🔧 GitHub Repo Explorer
+**[View Repo](https://github.com/pratik-singhh/github-repo-explorer)**
+
+Advanced repository search with debouncing, sorting, and request cancellation. Shows best practices for handling async operations and API optimization.
+
+**Tech:** React, AbortController, Debouncing
+
+---
+
+### 🎬 Movie App
+**[View Repo](https://github.com/pratik-singhh/movie-app)**
+
+Movie browser powered by external APIs with robust error handling and loading states. Clean UI with smooth user experience.
+
+**Tech:** React, Movie API, Error Handling
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratik-singhh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratik-singhh&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -77,17 +85,24 @@
   <img src="https://img.shields.io/badge/Editor-Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
+---
+
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://instagram.com/pratiksingh__.__/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://letterboxd.com/Pratik4351">
-    <img src="https://img.shields.io/badge/Letterboxd-%232C3440?style=for-the-badge&logo=letterboxd&logoColor=00E730" />
+    <img src="https://img.shields.io/badge/Letterboxd-%232C3440?style=for-the-badge&logo=letterboxd&logoColor=00E730" alt="Letterboxd" />
+  </a>
+  <a href="mailto:pratikthakur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>EEEEEEE</i>
+  <i>Open to collaborations & interesting projects</i>
 </p>
