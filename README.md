@@ -96,7 +96,7 @@ Movie browser powered by external APIs with robust error handling and loading st
   <a href="https://letterboxd.com/Pratik4351">
     <img src="https://img.shields.io/badge/Letterboxd-%232C3440?style=for-the-badge&logo=letterboxd&logoColor=00E730" alt="Letterboxd" />
   </a>
-  <a href="mailto:pratikthakur@gmail.com">
+  <a href="mailto:pratikthakur4761@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
