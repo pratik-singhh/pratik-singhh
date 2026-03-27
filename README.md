@@ -33,6 +33,14 @@ Full-stack developer passionate about building production-ready applications wit
 
 ## 📌 Featured Projects
 
+### 🎉 Campus Event Management System (CEMS)
+**Live:** [cems-six.vercel.app](https://cems-six.vercel.app) | **[View Repo](https://github.com/pratik-singhh/CEMS)**
+
+Full-stack event management platform where users can create events, register, and manage participation with secure authentication.
+
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, JWT, Tailwind CSS  
+**Highlights:** Full-stack deployment (Vercel + Render), JWT auth, relational DB (users/events/registrations), protected routes, real-time UI updates
+
 ### 🧠 TaskMaster – Fullstack Task Manager
 **Live:** [taskmaster-rho-two.vercel.app](https://taskmaster-rho-two.vercel.app/) | **[View Repo](https://github.com/pratik-singhh/taskmaster)**
 
