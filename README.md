@@ -42,7 +42,7 @@ Full-stack event management platform where users can create events, register, an
 **Highlights:** Full-stack deployment (Vercel + Render), JWT auth, relational DB (users/events/registrations), protected routes, real-time UI updates
 
 ### 🧠 TaskMaster – Fullstack Task Manager
-**Live:** [taskmaster-rho-two.vercel.app](https://taskmaster-rho-two.vercel.app/) | **[View Repo](https://github.com/pratik-singhh/taskmaster)**
+**Live:** [taskmaster-rho-two.vercel.app](https://taskmaster-rho-two.vercel.app/) | **[View Repo](https://github.com/pratik-singhh/Devtrack)**
 
 Full-featured task management app with secure authentication and multi-user support. Demonstrates proper REST API design, protected routes, and relational database architecture.
 
@@ -70,7 +70,7 @@ Advanced repository search with debouncing, sorting, and request cancellation. S
 ---
 
 ### 🎬 Movie App
-**[View Repo](https://github.com/pratik-singhh/movie-app)**
+**[View Repo](https://github.com/pratik-singhh/Movie-Database-App)**
 
 Movie browser powered by external APIs with robust error handling and loading states. Clean UI with smooth user experience.
 
