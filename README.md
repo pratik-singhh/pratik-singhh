@@ -35,7 +35,7 @@ Full-stack developer passionate about building production-ready applications wit
 ## 📌 Featured Projects
 
 ### 🚀 Shigoto: Distributed Job Queue System
-**[View Repo](https://github.com/pratik-singhh/shigoto)**
+**[View Repo](https://github.com/pratik-singhh/Distributed-Job-Queue-System)**
 
 A production-style distributed job queue system built with Node.js and Redis. It demonstrates fault-tolerant background processing, delayed scheduling, and distributed system design patterns.
 
